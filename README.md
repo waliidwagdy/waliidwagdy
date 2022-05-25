@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **waliid.wagdy@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1in6IJacB-4gsNBaDvnVBSMgdTYu7x3Vc/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1in6IJacB-4gsNBaDvnVBSMgdTYu7x3Vc/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
