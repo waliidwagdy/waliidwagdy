@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Walid Wagdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+passionate+Full-Stack+Web+Developer+(MERN)++"/>
+<img src="https://readme-typing-svg.herokuapp.com/?size=14&lines=I%27m+a+passionate+Full-Stack+Web+Developer+(MERN))](https://git.io/typing-svg"/>
 <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliidwagdy&label=Profile%20views&color=0e75b6&style=flat" alt="waliidwagdy" /> </p>
 
