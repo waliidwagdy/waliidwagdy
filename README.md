@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliidwagdy" alt="waliidwagdy" /></a> </p>
 
-- 🔭 I’m currently working on [Opex Journey](https://opex-journey.com/)
+- 🔭 I’m currently working on [Opex Journey](https://journey-opex.com/)
 
 - 🔭 I’m currently working on [Opex Dashboard](https://opex-dashboard-auncf.ondigitalocean.app/)
 
